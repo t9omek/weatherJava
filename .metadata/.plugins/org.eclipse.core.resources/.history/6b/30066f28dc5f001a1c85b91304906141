@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/weather/Connector.java=UTF-8
+encoding//src/weather/JsonSelector.java=UTF-8
+encoding//src/weather/core/Current.java=UTF-8
+encoding//src/weather/core/Day.java=UTF-8
